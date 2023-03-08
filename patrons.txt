@@ -413,6 +413,7 @@ GRAINBOW100 0e7d
 GaIaxy X3
 Gabbs416
 Gabe_Hargreaves
+GalacticHydra
 Galolo
 GamerEllie
 GasMaskTx
@@ -1062,6 +1063,7 @@ zowizozo
 神志那 亜鈴
 기계 연금술사
 ＋CJ＋
+＋VoicesShiature
 ＠Dulan
 Ｉｎｆｉｎｉｔｙ
 Ｉｔｓ Ｍｅｒｃｙ
