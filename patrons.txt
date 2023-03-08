@@ -403,6 +403,7 @@ FlyingFly
 FnStix
 FonkZ_
 ForgiveRatio
+FoxiwithMoxi
 FrenchToastFox
 Frost-Byte
 FroyoMate
@@ -857,7 +858,6 @@ ZomboiX
 _Dux
 _Saidai
 afrogangster1
-agent_whitebread
 akiyuki0721
 ankuru
 anon_fox
