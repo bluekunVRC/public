@@ -178,7 +178,6 @@ yfztitan2
 ,
 --Solitude--
 -0-Saitama-0-
--Aesir-
 -Ashiri-
 -Avacyn-
 -Muzan-
@@ -282,7 +281,6 @@ CDRShepherd
 CD__
 CHUD_VR
 CR_Exodial
-CY3ER
 CallMeCookie
 CamKuna
 Car10306
@@ -402,6 +400,7 @@ FilmKrebs43
 FireBrycePate
 FiresnowTD
 FishingTheWorld
+FlamingDogSack
 FlauscheKatz
 FloridaMan25
 FluffyKanina
@@ -722,7 +721,6 @@ Scripted_Evan
 Scuffed_VR
 Sean-VR
 SeiraMoriru
-Selbiecookie
 SeligoesVR
 Sen ඞ
 Sendooh
