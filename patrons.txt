@@ -111,6 +111,7 @@ Dark_Gear
 DefPine
 Demonic_Wolfy
 Dragonsoul08505
+Drander
 Excalibronator
 Feathermo0n
 GNRのキング
