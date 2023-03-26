@@ -267,7 +267,6 @@ ButtahFingahz
 Butter Muffin
 C0mbatBarbi3
 CDRShepherd
-CD__
 CHUD_VR
 CR_Exodial
 CY3ER
@@ -387,6 +386,7 @@ Fizuth
 FlamingDogSack
 FloridaMan25
 Fluggie
+Flyer3f
 FlyingFly
 FnStix
 FonkZ_
@@ -422,18 +422,16 @@ Groffman
 GundamSix
 Gunslinger15903
 HakunoKishinami
-Hank R․ Hill XI
 HaruTori
 Haruda
 HatchiTheFloof
 HealedMusician4
 HeavenlyFire
 Hiddendemonsoul
-Hinaǃ
 HiyoriSteele
 HopeGoodra
+HostFoxKisa
 Hullenheingh
-Humble Note
 Husk
 H̵ex
 IAmCthulhu
@@ -499,6 +497,7 @@ Kotesukesai
 Krazylette425xo
 Kronyx
 Kumy
+Kurps
 Kyrani
 Käptn Iglo
 K͎ᴵᴸᴸᴬX͎ᴘ
@@ -950,6 +949,7 @@ vibein
 wildgreen
 william12b
 wizardgod117
+womegalpha
 x Goth x
 xBlazer4
 xBri_nc
@@ -968,7 +968,6 @@ yoomers
 ~Lustful Lovie~
 ~Minx~
 ~RaviRollis~
-~Ringo
 ~Vector~
 ~emmathyst~
 ~oka~
