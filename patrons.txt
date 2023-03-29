@@ -118,7 +118,6 @@ GhostKitin
 GooeyPancake
 Kallo
 KawaiiGrin
-Laikyn_VRC
 Lil-Smokie
 LuckyDevil666
 MakoRey
@@ -158,7 +157,6 @@ ZessZ
 Zoltan Khyobusa
 crybunni
 kugothemighty
-semaj97
 yfztitan2
 ~Delayed~
 Ɍøǥᵾɇ Ǥħøsŧ
@@ -172,6 +170,7 @@ yfztitan2
 ＣｏｂｒａＳａｇｅ９８０１８５,
 ,
 --Solitude--
+-Aesir-
 -Ashiri-
 -Avacyn-
 -Muzan-
@@ -331,7 +330,6 @@ Defiance_
 DementedGiggles
 Demon's Queen
 DemonLordZuul
-Demontopphat
 Demya
 Deojjii
 DerrDoktor
@@ -486,7 +484,6 @@ KantuC カントゥク
 Karmabites
 Katsumi001
 Kdawg1897
-KerberosBeta
 Khan`
 KidneySaurus
 KillerSam
@@ -700,7 +697,6 @@ Shada Maela
 Shammÿ
 Sharnex Arcadia
 Shawdown
-Shireen
 Shnubie
 Silent_Saphir
 SilverDawn42432
@@ -788,7 +784,6 @@ VidMas25
 Vira_Hell
 Visenia
 Vitrez
-Voices_Of_Past
 VyviZuri
 WaRLordS_Reaper
 Wagyumi
@@ -933,7 +928,6 @@ skyler_wolf_3
 slaver696
 somnus․
 songbirds
-spittyboi
 spottdzues
 sunny demon
 syd
