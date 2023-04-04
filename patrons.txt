@@ -155,6 +155,7 @@ yfztitan2
 -Aesir-
 -Ashiri-
 -Avacyn-
+-Defect-
 -Muzan-
 -NightSky-
 -Rindo-
