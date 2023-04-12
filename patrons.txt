@@ -62,6 +62,7 @@ Vegan-Cat@1031064054330040450
 Wynter 冬@264119669051359234
 Xenoomorph@418098073760432176
 Yurde_VR@278129260055625739
+ZZ_Ignis@351741545780609024
 _UNK0WN_@487443966548115456
 andy_pa_@856852944137486376
 bzurke@413322024824602644
@@ -130,7 +131,6 @@ RedRavenChannel
 RinDownUnder_VR
 RinDownUndr_VR
 Ryukyun
-SPOT-5
 SageYokosuka
 Seroanyan
 SetoWolftsune
@@ -145,7 +145,6 @@ ViggieVR
 VincentVulture
 Virgo4u
 Wasel
-ZZ_Ignis
 ZessZ
 Zoltan Khyobusa
 crybunni
@@ -541,7 +540,6 @@ Mithka
 MiyaReaper
 Miyami Shine
 Moner246
-Monkey God
 Monkeyskullking
 Monkeywitagun
 MooMoo117
@@ -812,7 +810,6 @@ antisociable
 atrane722
 aye'rudeboii
 ballisticpanda
-bbymoo
 ben13535
 billnye2
 bit․howard
@@ -1003,7 +1000,6 @@ yuzu_cat
 ＋VoicesShiature
 Ｉｎｆｉｎｉｔｙ
 Ｉｔｓ Ｍｅｒｃｙ
-Ｖｏｉｄ Ｗａｌｋｅｒ こ羽ン
 ［ NOVA ］
 ［Error Walker］
 ［GhostTactical］
