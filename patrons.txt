@@ -159,7 +159,6 @@ yfztitan2
 ＣｏｂｒａＳａｇｅ９８０１８５,
 ,
 --Solitude--
--Aesir-
 -Ashiri-
 -Avacyn-
 -Defect-
@@ -185,7 +184,6 @@ ActualApricot
 AdhesiveJacki 
 AgentChkn
 Aggle
-Agnaren
 Aikotan
 Aimi Hana
 AkashiNya
@@ -273,7 +271,6 @@ Cin_
 CirclesWasTaken
 CirnoTheLegend
 Co1byFPV
-Coloredatom451
 CommanderEYE
 ComradeFer
 Coolman172
@@ -421,7 +418,6 @@ IAmCthulhu
 IGNIS SU
 I_am_fat_panda
 Iceboy25189
-ImNear
 ImSteadyClutchn
 ImZillah
 Im_Aurora_VR
@@ -601,7 +597,6 @@ PepsiWitch
 PeterDG
 Phadoom
 Phantom_64_TV
-PheonixVR
 PhoenixD0wn54
 Pinky UwU
 Pixel_Dust
@@ -610,6 +605,7 @@ Plusheen
 PoisonViper38
 Poseidon․
 ProjectNightVR
+Punda_125
 Pwotato
 QTcut
 QueenCat91
@@ -669,7 +665,6 @@ Service Bot βeta
 ServiceRevenant
 Shammÿ
 Shampuru
-Sharnex Arcadia
 Shawdown
 Shnubie
 Silent_Saphir
