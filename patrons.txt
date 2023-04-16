@@ -1017,7 +1017,8 @@ yuzu_cat
 Ｉｔｓ Ｍｅｒｃｙ
 ［ NOVA ］
 ［GhostTactical］
-｜ B L U E ｜,
+｜ B L U E ｜
+￰,
 Aqua-chan
 Blue-kun
 DeeMan1991
