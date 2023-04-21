@@ -163,6 +163,7 @@ zdgod
 어린여우
 ＣｏｂｒａＳａｇｅ９８０１８５,
 ,
+'-sophia-'
 --Solitude--
 -Ashiri-
 -Avacyn-
@@ -771,7 +772,6 @@ Wolfy_Jae
 WonderWait
 Xainie
 Xathaneal
-Xmangaming
 XoF_eLtTiL
 Xuax
 Yasashii Kaze
