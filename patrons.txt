@@ -260,6 +260,7 @@ CHUD_VR
 CR_Exodial
 CallMeCookie
 CaptBeagle
+Captain_Cuvier
 Caramel UwU
 Caroline Cope
 Casferatu
@@ -524,7 +525,6 @@ MaskedTearZ
 Master Mova
 Matthew246100
 MayuSamaDesu
-Meko_The_Husky
 Mek~
 Melicinity
 Mellonarmy444
