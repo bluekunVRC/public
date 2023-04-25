@@ -490,7 +490,6 @@ LittleKiwee
 LittleRookieD
 Lostsouls_
 Lotus_0116
-Lotus_0116
 Lua Nighthowl
 LucarioX489-9
 Lucia Winthers
@@ -698,6 +697,7 @@ SpiritRage
 Squavil
 Stay_HydratedM8
 Steelhide
+StressTess_ted
 SuccuVamp_Anna
 Succubus_Nova
 SugarCandyCaine
