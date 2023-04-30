@@ -366,6 +366,7 @@ FnStix
 FonkZ_
 FoxiwithMoxi
 Freyja-
+FriedBlight
 Frost-Byte
 FruitZalad
 Fruitpaii
@@ -611,6 +612,7 @@ ReN_KoNoe
 Reaverfox
 Redneckbiker
 Redneckracer04
+RefusePitSaver
 Ren_Hunter
 Retro༄
 RevealOurHope
@@ -979,7 +981,6 @@ yuzu_cat
 〰Ｃａｌｙｐｓｏ〰
 いちご祭り
 おきらく天狐
-おん-ØFF
 けんぶろ
 とび（tobi）
 まくらぎゅ
