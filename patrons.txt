@@ -7,7 +7,6 @@ AngelOD@202234572900007936
 Assassinbatosai@277701082145226753
 Aster_yuko@837342968963923988
 Biological․exe@248835324460007425
-BleachHeavenly@335453784992120852
 BluPointA@658063405684490282
 Boo_♡@512784166954467349
 C-R-O-W@466718640390012928
@@ -46,7 +45,6 @@ Nekoradark@381168202194878474
 Nephesh@386193217785430020
 Nkombat16@335411893227487242
 NothingBurger@72894389168381952
-Onii UwU@145283169321484289
 PotatoLifeC4t@723369893587845181
 Puddi@259548192549502977
 R00FTOP@292057967115894785
@@ -235,6 +233,7 @@ Bizzle77
 Blaasz
 BlackOutVR
 Blake_Creature
+BleachHeavenly
 BluWizard
 BlyzeDerg
 BoiHanny
@@ -365,7 +364,6 @@ FonkZ_
 FoxiwithMoxi
 Freyja-
 FriedBlight
-Frost-Byte
 FruitZalad
 Fruitpaii
 Fynn9563
@@ -832,6 +830,7 @@ insensitive
 jonathanhunter1
 julierosegold
 kamonosJP［カモノス］
+kiue_1010
 koti75
 koyamoni
 kululu987
