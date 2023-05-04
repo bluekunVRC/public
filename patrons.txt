@@ -942,6 +942,7 @@ yuzu_cat
 ＋VoicesShiature
 Ｉｎｆｉｎｉｔｙ
 Ｉｔｓ Ｍｅｒｃｙ
+Ｒｉｖｅｒ
 Ｔｒａｕmａｔｉｚｅｄ
 ［ NOVA ］
 ［Error Walker］
