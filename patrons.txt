@@ -113,7 +113,6 @@ MikeDrop
 Mitai-
 Morgan Lefay
 Naoko_Halari
-NyanLives
 Otanime-chan
 PIDEX
 PrezTG
@@ -410,6 +409,7 @@ Jay_Dee_Bee
 Jero~
 Jessie_Lee
 JimmyE
+Jinglar
 JinxMoth
 JoepointOh
 JokkeFynDK
@@ -620,7 +620,6 @@ Sean-VR
 SeiraMoriru
 SeligoesVR
 Sen ඞ
-Sendooh
 SenkoVR
 Sentai
 Service Bot βeta
