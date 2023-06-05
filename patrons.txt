@@ -772,7 +772,6 @@ geranium_
 hazzaj16
 heatherkelly350
 huwahiro
-iVoodoo
 ikuto-kurosami
 indypendaunt
 ironportal
@@ -863,6 +862,7 @@ yuzu_cat
 ~Ezekiel~
 ~Flowers~
 ~GECKO~
+~Hyperion~
 ~Lustful Lovie~
 ~Minx~
 ~emmathyst~
