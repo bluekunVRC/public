@@ -235,6 +235,7 @@ CHUD_VR
 CR_Exodial
 CallMeCookie
 CamKuna
+CammyVanny
 CaptBeagle
 Captain_Cuvier
 Caroline Cope
