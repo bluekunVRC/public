@@ -265,6 +265,7 @@ CommanderEYE
 ComradeFer
 CorruptVR_
 Craftsy
+CremeDragon
 CriminalCalibre
 Crispy___
 CrypticEnby
@@ -316,7 +317,6 @@ Draconequusflare
 Draconis
 Dragon Overlord
 DragonDraxian
-DragonKitten
 DragonKnightVeles
 Drakeos
 DravenM4A1
