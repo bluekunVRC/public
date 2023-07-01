@@ -154,6 +154,7 @@ yfztitan2
 - ᴇʟᴍᴏ -
 --Solitude--
 -Avacyn-
+-Defect-
 -Muzan-
 -RaNDo-
 -Rindo-
@@ -360,6 +361,7 @@ Frost-Byte
 FruitZalad
 Fruitpaii
 Fynn9563
+GINGAI-SERUKI
 GRAINBOW100 0e7d
 GaIaxy X3
 GalacticHydra
