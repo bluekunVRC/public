@@ -155,7 +155,6 @@ yfztitan2
 ,
 - ᴇʟᴍᴏ -
 --Solitude--
--Defect-
 -Muzan-
 -RaNDo-
 -Rindo-
@@ -301,6 +300,7 @@ Dashy-Oni
 DatPeep23
 Davey_Boi_VR
 DeeDeeCZ
+Defect_
 Defiance_
 DementedGiggles
 Demon's Queen
