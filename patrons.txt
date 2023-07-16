@@ -438,7 +438,6 @@ Kalitapaws
 KantuC カントゥク
 Karmabites
 Katsumi001
-KeepSpazzing
 Khan`
 Kidfirestryker
 KidneySaurus
@@ -628,6 +627,7 @@ Shampuru
 SharpyDot
 Shioternity
 Shnubie
+Sigger
 Silent_Saphir
 SilverStream509
 SimulatedWolf
