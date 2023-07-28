@@ -341,7 +341,6 @@ Flyer3f
 FnStix
 Fookie
 FoxiwithMoxi
-FrenchToastFox
 Freyja-
 FriedBlight
 Frost-Byte
@@ -726,6 +725,7 @@ X-Bean-X
 XY-7_
 Xainie
 Xathaneal
+Xeon_The_Fox
 XoF_eLtTiL
 Xochimi
 Xuax
