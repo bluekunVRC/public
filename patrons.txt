@@ -136,7 +136,6 @@ Wiz-
 Yoko_Grim
 ZessZ
 paimonxx
-senpahy
 yfztitan2
 ~Delayed~
 ɖąɧƖıą
@@ -295,6 +294,7 @@ Defiance_
 DementedGiggles
 Demon's Queen
 DemonLordZuul
+DemonNekoGamer
 Demya
 Devastat0r36
 Deven~
@@ -622,6 +622,7 @@ Sigger
 Silent_Saphir
 SilverStream509
 SimulatedWolf
+SirGrape
 SirWindowsXP
 Sir_Zapdos
 Siro Nai
