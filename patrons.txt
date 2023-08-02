@@ -83,6 +83,7 @@ Aggle
 ArkoNero
 Bee ˸3
 BugSmashR
+C08R45493980185
 Crocodiles
 CuteghostPat
 CutieOlivia
@@ -313,7 +314,6 @@ El-CasT
 ElTaco
 ElfieFemboy
 EnceladusRage
-Eros__Soul
 EveAurelia
 FORD THE ONE
 FRZNHeir
@@ -608,7 +608,6 @@ Shnubie
 Sigger
 Silent_Saphir
 SilverStream509
-Silver_Val
 SirGrape
 SirWindowsXP
 Sir_Zapdos
@@ -706,7 +705,6 @@ WolfyWill
 Wolfy_Jae
 WonderWait
 X-Bean-X
-XY-7_
 Xainie
 Xathaneal
 Xeon_The_Fox
@@ -799,7 +797,6 @@ oochan2
 piedude67
 pinkwalkin
 plankton8606
-profestus v2
 qtLemona
 rabbit․exe
 raven-444
