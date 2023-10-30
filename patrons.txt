@@ -253,7 +253,6 @@ CeleryStick03
 ChaosDrive
 CharlotteFlower
 Cher Innvaten
-Chii Kozume
 Chiori Nanami
 Chris 1
 Cirno9Ball
@@ -621,6 +620,7 @@ Shampuru
 SharpyDot
 Shioternity
 Shnubie
+ShyMooncake
 Sigger
 SilverPainter
 SilverStream509
