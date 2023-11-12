@@ -329,6 +329,7 @@ Fluggie
 Flyer3f
 ForTheDamnGlory
 Forming32
+Foxythecaptain
 Freyja-
 FriedBlight
 Frosty_Maple
@@ -703,7 +704,6 @@ Wi1ted
 WinstonArtemis
 WinterIkorus
 WolfTico
-Wolfpuppy
 WolfyWill
 WolvzUnion
 X-LiAM-X
