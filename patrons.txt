@@ -319,7 +319,6 @@ El-CasT
 EllieNuggie
 ElusiveFrost
 EnceladusRage
-EvelynPurr
 FORD THE ONE
 FRZNHeir
 FadedHipster
@@ -449,6 +448,7 @@ LegendaryHunter
 LeonXII
 Lerarex
 Lesher3
+LeviPurr
 Lewis_VRC
 Lightyheart
 Lil-Dashie
