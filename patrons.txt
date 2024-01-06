@@ -12,13 +12,13 @@ EnchanterTim@80106969548988416
 Frusttration@143206271351259136
 Galolo@133480743434321921
 Ghost Gato@425436607286476802
+HIRO-CHAN@394763350732439573
 Kamiesio@559488672077185084
 Kane x@868918375185784892
 Kign1@617138938217496602
 Kitke@269950513850744832
 Krial@271373001243492352
 Luvo≺3@783521003271618572
-Lᴜɪɢɪ@276792929555709955
 Max Tarren@916561217353580544
 Meko_Channel@673324466205491271
 Meroメロ@993658212970659922
@@ -41,7 +41,6 @@ TheMati117@266310105367052289
 TheProfessorNA@139324235016437760
 The_Catnapper@179937543536640000
 Tycasaki@190143115473059840
-Undeadgoth666@911132293274406943
 Vanilla Popcorn@1166854189914271744
 Vanilla Popcorn@816372794929184831
 Vegan-Cat@1031064054330040450
@@ -57,6 +56,7 @@ existony@428689342400036864
 freya22@392535310371782661
 kfarwell@439941042863603723
 knifeYTking@247656483179855872
+kuromoriii@708816260284022895
 lIEchoIl@379173131748769802
 natureskiss@107279738246004736
 zenta@111908416930267136
@@ -146,7 +146,6 @@ franbisco
 impulzdoc
 kmstow1102
 moochang
-mouse_x3
 paimonxx
 preschool
 v y k s
@@ -166,7 +165,6 @@ zwwagalicious
 어린여우
 Ｚｅｅ 魔,
 ,
-'CenTurion'
 'Mora Velveteen
 -Dreys-
 -JUGGIE-
@@ -175,7 +173,6 @@ zwwagalicious
 -ʟᴀᴢʏ-
 -ᴍᴀᴋᴋᴜᴢᴇ-
 100chilly
-1800ImSleepy
 2004HondaCivic
 6164
 618Goon
@@ -301,6 +298,7 @@ Degleon
 Del-la-sol
 DementedGiggles
 DemonLordZuul
+Demya
 Desired༒Silence
 Devastat0r36
 DiamondTheWusky
@@ -308,6 +306,7 @@ DirgeHunter
 Disklexia
 DizzyPortgas
 Djoneb
+Dokami-マスター
 DouDou_TheBean
 DovaRoar
 DracaDerg
@@ -364,7 +363,6 @@ GiftedMisfit67
 GingerWhoSings
 Gl4dios
 Gl4dios
-GlamrockJames
 GlitchLynne321
 GlowingNeko
 Gobulous
@@ -381,6 +379,7 @@ Hatmanshadow
 HazyMilk
 HeLuvKay
 HealedMusician4
+Hentai ツ
 Hiddendemonsoul
 Higashira
 HimikoToga3
@@ -447,6 +446,7 @@ Krazylette425xo
 Kronyx
 Kumy
 Kurumial
+Kyrani
 K͎ᴵᴸᴸᴬX͎ᴘ
 L0ne W0lf
 LNSprinkles
@@ -467,7 +467,6 @@ LilDripDropOwo
 LittleColteee
 LittleKiwee
 LittleRookieD
-Little_bean2356
 Livid Lily
 LtHansVR
 Ltwoer
@@ -479,7 +478,6 @@ Luna3d
 LunaDelrey
 LunarLillium
 Lux Erebus
-Luxsosa
 Lxpu
 LynnThePlayBoy
 Lytelly
@@ -585,7 +583,7 @@ RazenForce
 Redneckbiker
 RefusePitSaver
 Rela28
-Remikins27
+Ren_Hunter
 RiasVonGremory
 Riku Satori
 Ringoman
@@ -610,7 +608,7 @@ SXHIKAMI
 Saiyuna
 Saki_426
 SakuraiPinkFox
-Saltysailor5245
+SanityD
 Sanyu_
 SarahVonMoon
 Saran
@@ -625,7 +623,9 @@ Sean-VR
 SeiraMoriru
 Senpaiskeeper
 ServerDaddy
+Service Bot βeta
 Serving
+ShadowPan
 ShadowStar239
 ShadowStorm78
 SharpyDot
@@ -755,7 +755,6 @@ Zeetch
 ZerahVon
 Zero tekkadan
 Zi11a
-Zion＆Miko
 ZombieCow
 _Lloyd_Andrews_
 _Suu_
@@ -775,6 +774,7 @@ chrisjames
 cyb3r․exe
 deakklok
 deathdealer3_34
+deathguardfrank
 diamondev
 dirtykirty
 dstayton
