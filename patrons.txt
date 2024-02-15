@@ -129,6 +129,7 @@ SSGSS_Miller
 SageYokosuka
 Securefriend
 Sloppu
+Smol Shark
 SonicSpeedNews
 ThatFluffyCat
 ToxicPositivity
@@ -250,6 +251,7 @@ ButtahFingahz
 CD__
 CHUD_VR
 CallMeCookie
+Calmwolf
 Cambrady
 CammyVanny
 CaptBeagle
@@ -622,7 +624,6 @@ Skaiamena
 Skyler_Skylight
 Slowly Going
 SmallPotato69
-Smol Shark
 SmolTrashcan
 Snarky Ahole
 SoggyPillow
