@@ -100,6 +100,7 @@ DefPine
 EDMania_YT
 Excalibronator
 Feathermo0n
+FoxzyVR
 GINGAI-SERUKI
 HyperaVipera
 I King Mufasa
@@ -588,7 +589,6 @@ RaichuSama
 Raiden~Ei
 RamenIguess
 RavingMidnight
-Redneckbiker
 RefusePitSaver
 Ren_Hunter
 RiasVonGremory
@@ -950,6 +950,7 @@ yoomers
 ＋Destiny＋
 ＬＯＮ三ＬＹ
 Ｑｕｅｅｎ Ｉｎｆｉｎｉｔｙ
+Ｒｅｄｎｅｃｋｂｉｋｅｒ
 Ｒｈｅｉａ 帝
 ［GhostTactical］
 ｜ B L U E ｜,
