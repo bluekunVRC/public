@@ -567,6 +567,7 @@ RefusePitSaver
 Ren_Hunter
 RiasVonGremory
 Riku Satori
+RinIsSalty
 Ringoman
 Roaxis
 Rocky_Rocketeer
