@@ -360,7 +360,6 @@ Griffons
 GrimGoblin21
 Groffman
 Gspot101
-Gunslinger15903
 Haruda
 Hatmanshadow
 HawkHD21
@@ -375,6 +374,7 @@ HiyoriSteele
 Hullenheingh
 HylianKnight
 Hyperzilla
+I- Natt -I
 IAmCthulhu
 IGNIS SU
 IILoonaII
@@ -661,6 +661,7 @@ Tonxz
 Toru Kaigura
 Toxic_crybaby
 Traker404
+Trixmyname
 Tullie
 Turnneck
 Tylaxe
