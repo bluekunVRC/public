@@ -581,6 +581,7 @@ ShadowPan
 ShadowStar239
 Shadow_Wisp
 SharpyDot
+Silver Thorn
 SilverPainter
 SimulatedWolf
 SirNinty
