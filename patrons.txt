@@ -582,6 +582,7 @@ Shadow_Wisp
 SharpyDot
 Silver Thorn
 SilverPainter
+SilvermoonTF
 SimulatedWolf
 SirNinty
 Siro Nai
