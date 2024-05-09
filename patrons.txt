@@ -297,6 +297,7 @@ ElusiveFrost
 Embers_VT
 EmeraldQuill
 EnceladusRage
+Ex_s
 FORD THE ONE
 FRZNHeir
 FaeFauna
@@ -628,6 +629,7 @@ Tullie
 Tylaxe
 Tylaxe
 UNRELENTINGWOLF
+Valerie Parker
 Vekter24
 Velkari
 Vibu~
