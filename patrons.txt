@@ -496,7 +496,6 @@ PelvicSling
 PeterDG
 PhantaLeFluffVR
 PhantomFoxie
-Phantom_64_TV
 Phatbroom
 PhoenixD0wn
 PhreshlyShaven
@@ -564,6 +563,7 @@ ShadowPan
 ShadowStar239
 Shadow_Wisp
 SharpyDot
+ShinzoTakahashi
 Silver Thorn
 SilverPainter
 SimulatedWolf
