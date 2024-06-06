@@ -343,6 +343,7 @@ InsaneSquirrel
 Invalid_boyyo
 InvernessMoon
 Iriyashi
+Irıdescence
 Isolfr
 Its Boi
 ItsFupa
@@ -384,7 +385,6 @@ L0ne W0lf
 LNSprinkles
 Lawbrojr
 LeRoiChomeur
-LedstormXM
 LegendaryHunter
 LemonyLiAM
 LeonXII
@@ -508,7 +508,6 @@ Roaxis
 Rory2000
 Rosaria Night
 RoseSam
-Rosethydeweeb
 Rotixx
 RoyaleChaos
 RpgGamer
