@@ -90,6 +90,7 @@ DefPine
 DriscolCassidy
 Excalibronator
 Feathermo0n
+FreyaCoffin
 GINGAI-SERUKI
 HyperaVipera
 Junkozane
@@ -309,7 +310,6 @@ FishingTheWorld
 Fizuth
 Fluggie
 Flyer3f
-FreyaCǫffin
 Freyja-
 Frieren Ballin'
 FruitZalad
