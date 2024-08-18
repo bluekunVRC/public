@@ -142,6 +142,7 @@ zwwagalicious
 ＣｏｂｒａＳａｇｅ９８０１８５
 ＣｏｂｒａＳａｇｅ９８０１８５,
 ,
+-Anri
 -Dreys-
 -Grim Reaper-
 -Muzan-
@@ -179,7 +180,6 @@ Andrê
 Angel Haru
 AngelBelle
 ArekkuCat
-Arius Alter
 AsheWHY
 Ashyne_SolEater
 Asovrix
