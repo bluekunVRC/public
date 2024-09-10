@@ -25,6 +25,7 @@ Meko_Channel@673324466205491271
 Meute@409866769751080970
 MiMAdoLO@482046369507573760
 MiTzaPlaya566@469340843271258121
+MysticStrike@118572472520933376
 Nephesh@386193217785430020
 Nkombat16@335411893227487242
 NothingBurger@72894389168381952
@@ -64,6 +65,7 @@ natureskiss@107279738246004736
 ~PokerFace~@753355963074871426
 ~Primal Shoyru~@200836760287051785
 Łōřɗ Ąƙųŷâmį@585820871793442829
+ʙᴏᴏᴛʏʟɪᴄɪᴏᴜs@866848340201570364
 Տhark@702233746811650220
 ༺Rubi༻@749725796351868978
 ᴍᴀʟɪᴄᴇ@128647300770824192
@@ -111,7 +113,6 @@ Lucia Winthers
 M3ga Marx
 Mello Touki
 MikeDrop
-MysticStrike
 MystikalAurora
 PrezTG
 RagingRecee
@@ -141,7 +142,6 @@ paimonxx
 shadestorm99
 zwwagalicious
 ~_H-A-T-E_~
-ʙᴏᴏᴛʏʟɪᴄɪᴏᴜs
 ʚ Krysta ɞ
 ༺ʟᴀᴅʏ ɴʏᴍᴘʜ༻
 ღ H1DDΞИ69 ღ
@@ -287,6 +287,7 @@ ElusiveFrost
 EmeraldQuill
 EnceladusRage
 Eristhya
+Ex_s
 Ex_s
 FORD THE ONE
 FaeFauna
@@ -713,7 +714,6 @@ zilla143
 ღGlitchGalaxyღ
 ღHoneyBoiღ
 ღL̽ulu̽ღ
-ღSenkoSanღ
 ᴄʏʙᴇʀᴘᴜᴘᴘʏ~
 ᴄᴏɴᴋ
 ᴅᴇᴇʀ
