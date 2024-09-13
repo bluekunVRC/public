@@ -500,7 +500,6 @@ Shadow_Wisp
 SharpyDot
 ShinzoTakahashi
 Shoji Modrá
-Shy_TheOriginal
 Silver Thorn
 SilvermoonTF
 Silνer
@@ -550,7 +549,6 @@ TloBow
 Tonxz
 ToxicHowl
 Traker404
-TrickySpookster
 Tthehottesteoy
 Tullie
 Tylaxe
@@ -682,6 +680,7 @@ wizardgod117
 woahpotato
 xBri_nc
 xPeachiPie
+xSonicEevee
 xeonlegends
 xx1191vortex
 yanderelin
