@@ -366,7 +366,6 @@ I- Natt -I
 IAmCthulhu
 I_am_fat_panda
 Iceboy25189
-ImRetarded
 InfernoSnake
 InsaneSquirrel
 Invalid_boyyo
@@ -504,6 +503,7 @@ R4D10 M1KU
 Rade shade
 Radio Miku
 RavingMidnight
+Ringe
 Ringoman
 RiverOceano
 Roaxis
