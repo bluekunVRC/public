@@ -379,7 +379,6 @@ JIN_HONG
 Jackal_storm
 JacksonWolfFox
 JadeVX
-JadeVX
 JokkeFynDK
 JonesAddict
 Kaffiene
@@ -400,6 +399,7 @@ KobaKiju
 Koree_
 Krispy Ken
 Kumy
+KuroVX
 Kurumial
 L0ne W0lf
 LNSprinkles
