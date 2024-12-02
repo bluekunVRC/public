@@ -184,6 +184,7 @@ zuzubug
 ,
 -Anri
 -Katnip
+-Klea
 -Muzan-
 -StrawbeeKat-
 -lulu
