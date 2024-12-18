@@ -185,6 +185,7 @@ zuzubug
 -Grim Reaper-
 -Katnip
 -Klea
+-MrEcho-
 -Muzan-
 -StrawbeeKat-
 -lulu
@@ -442,7 +443,6 @@ Moogle26
 MoonHollowed
 Mother Succubus
 Mr Almonds
-MrEcho_
 Mr․ Teddy
 Musashi
 Muunmelon
