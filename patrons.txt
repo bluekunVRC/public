@@ -719,6 +719,7 @@ xBri_nc
 xSonicEevee
 xaj
 xx1191vortex
+xxkillerlol
 yanderelin
 yfi_
 yoomers
@@ -809,10 +810,10 @@ phiabunny
 tupper
 yuki nagato,
 BombardToo@334195593159245825
-Cum Crusader@761880179819151390
 Dyllersen@235552235570987013
 Norwhale Rae@218209759424151552
-Pandora@178716757056290827,
+Pandora@178716757056290827
+syscall@761880179819151390,
 ,
 Krial
 TheProfessorNA
