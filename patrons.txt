@@ -41,12 +41,14 @@ LynxJinx@770456532893827092
 Lyra -@519206287834087445
 MajorScoreKaj@760933537922023424
 Meko_Channel@673324466205491271
+Mello Touki@1240199890081153024
 Mello Touki@1288828729015013432
 Meute@409866769751080970
 MiMAdoLO@482046369507573760
 Monkish@555855310800158720
 NORVikingGod@682172125687316490
 Nephesh@386193217785430020
+Novitia@576765752279957537
 Only Miyu@282687241799598080
 PotatoLifeC4t@723369893587845181
 RaptorFluff@395208615075643412
@@ -305,6 +307,7 @@ xMattix
 yatako tsume
 zuzubug
 ~Arya~
+~Awen~
 ~Miyako
 ~Zoey~~
 ~ʜɪʙɪsᴄᴜs ᴋᴏɪ~
@@ -409,7 +412,6 @@ Azraeel711
 Azrael-Maveth
 Azzy123
 BLUEBERRIBUNNY
-BMWguy4000
 BURNINATER49
 BadassFemboy
 Bajin Muu
@@ -614,7 +616,6 @@ JacksonWolfFox
 JasmineBlood
 JazzyBunBunP
 Jemmie
-Jessie_Lee
 JokkeFynDK
 JonesAddict
 Jossten144
@@ -735,7 +736,6 @@ Noshoefarcaster
 NotSynced
 NotSynced
 Novdalune
-Novitia
 Nuked151
 Nymstra
 Nιgнтмαяє403
@@ -1026,6 +1026,7 @@ motoShiro
 mrsezbake
 neamo963
 nic48b
+nico_kneecaps
 night_001
 novi_isme
 octo-uro
@@ -1070,7 +1071,6 @@ yanderelin
 yfi_
 yoomers
 ~ Moth ~
-~Awen~
 ~Grak~
 ~Hyperion~
 ~KidneyBean~
