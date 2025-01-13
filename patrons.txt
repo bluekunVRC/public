@@ -476,6 +476,7 @@ Contium
 CorruptVR_
 CorruptViper
 CosmicQuartz
+CoxTH
 Crashits
 Crazy_gamer_III
 CreamPuffy
