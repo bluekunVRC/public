@@ -52,7 +52,6 @@ Only Miyu@282687241799598080
 PotatoLifeC4t@723369893587845181
 RaptorFluff@395208615075643412
 RavingMidnight@272432068992958465
-RealSilverRex@446460882583683072
 RedHotSasquatch@1147284502780059718
 RedRavenChannel@292379449859506179
 ReyVarian@1224914076942073926
@@ -147,6 +146,7 @@ As-u-nA
 Ast0lfo
 Auralith
 Autsellia
+Axol_The_Great
 Azureshinigami
 Bebitt
 Budokai Man
@@ -507,6 +507,7 @@ Deadflare
 DeadlyPro
 Deceasedoroku
 DeceptiveMaiden
+Deer Milk
 Defect_
 Delta1642
 DementedGiggles
@@ -574,7 +575,6 @@ Gl4dios
 Glenn_Quagmire
 GlowingNeko
 Glɑdios
-Gobulous
 Grace Suzuka
 Grassitz
 Gravelgutt
@@ -583,7 +583,6 @@ GrimReaper505
 Grimm_Eternity
 GummiRowan
 HaiN0te
-Haiden ˸3
 HalfwaySoap
 Hatmanshadow
 HawkHD21
@@ -642,6 +641,7 @@ Kelsx
 Killswig
 Kimヅ
 KingChristianII
+KingGemini
 KitsuneAllure
 KittyCommando
 KittyDVR
@@ -906,7 +906,6 @@ TheCatfish
 TheFadedSucubus
 TheFoodMan52
 TheGamateers
-TheLoneAlchemist
 TheShyFoxvrc
 TheWorld 世界
 The_Tom
