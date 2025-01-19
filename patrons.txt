@@ -1006,6 +1006,7 @@ UncleB0ris
 UsagiShada
 V3FV
 VPHost
+V_DIGITAL_V
 VdotV
 Veilarose
 VerdéFrappé
