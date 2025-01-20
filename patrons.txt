@@ -381,7 +381,6 @@ zuzubug
 -Anri
 -Frolic-
 -Grim Reaper-
--Katnip
 -Klea
 -Luciela-
 -MrEcho-
@@ -406,6 +405,7 @@ Abrith_teh
 Acalystus
 Adahk
 Adorkable Fox
+Aeri~
 AgentChkn
 AgentOrangeSerg
 Aguyoninternet
