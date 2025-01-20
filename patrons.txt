@@ -247,6 +247,7 @@ MatrixGod
 Mayta Ice
 Mibiiro
 MikeDrop
+MilkyWayAI
 MissNox
 Moon_Light'
 Mr Narrow
@@ -582,6 +583,7 @@ Elmo075
 Elora Nevermore
 ElusiveFrost
 EnceladusRage
+EnhancedICE
 Enigmɑtic
 Erro Wolf
 EssenceOfLight
@@ -1010,6 +1012,7 @@ V3FV
 VPHost
 V_DIGITAL_V
 VdotV
+Vedality
 Veilarose
 VerdéFrappé
 Vicarious Vice
