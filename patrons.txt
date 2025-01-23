@@ -196,6 +196,7 @@ DasGenki
 DeadmanIsaac
 DeathDealer334
 DemonLordDan
+Donthejester
 Draven Hyena
 DriscolCassidy
 DuckyVii
@@ -216,6 +217,7 @@ FreyaCoffin
 GINGAI-SERUKI
 Galehardt
 GameSafeVPN
+GlovePP
 Hitman211
 Holy002
 Hungerrr
@@ -579,7 +581,6 @@ Distrutta
 DizzyBabie
 DizzyPortgas
 Djoneb
-Donthejester
 DovaRoar
 DrStray
 Dr_Obvious
