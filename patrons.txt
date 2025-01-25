@@ -794,6 +794,7 @@ Lullaby Trace
 Luna3d
 LunarLilith
 Lux Erebus
+LuxeNeura
 Luxsosa
 Lxpu
 Lythie
@@ -819,6 +820,7 @@ Mihoko Okayami
 MikeTwike
 Miko Fujikawa
 MissingEmber
+MisterOrange
 MisxSphynx
 Miyami Shine
 Mochibunx
