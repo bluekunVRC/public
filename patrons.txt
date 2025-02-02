@@ -46,6 +46,7 @@ Imbrium@598977825009172490
 Kadeo23@506972630255927306
 KentaDTV@1314690578788651060
 Kign1@617138938217496602
+KnightMayor@343657859185115137
 Koda5215@333126576814292993
 Krial@271373001243492352
 Kupochocomog@162354534495158272
@@ -198,6 +199,7 @@ AsmodeusEpsilon
 Ast0lfo
 Auralith
 Autsellia
+AwoAthe
 Axol_The_Great
 Azuki_12
 Azureshinigami
@@ -301,6 +303,7 @@ LittleFreakz
 Lordthomas11
 Lucia Winthers
 Luciferwhitepaw
+LuxeNeura
 Lyrican
 M3ga Marx
 MacroToast
@@ -867,7 +870,6 @@ Lullaby Trace
 LunarLilith
 Luna¬Moonlight
 Lux Erebus
-LuxeNeura
 Luxsosa
 Lxpu
 Lythie
