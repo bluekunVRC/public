@@ -360,6 +360,7 @@ Obsidian_Zero
 Otakunator
 OutlandIndustry
 Pannekoek_101
+PeteUwU
 PhoenixD0wn
 PhoenixSoul1757
 PlushyKin
@@ -417,6 +418,7 @@ Virgose
 Viziveks
 Void_Mercury
 Voldrak
+Volrug
 VönSolïs
 W i z~
 W0lf Daddy
@@ -753,7 +755,6 @@ Fynn9563
 G 0 0 B 3 R
 GH0STKILLA
 GamerEllie
-GazSkeleton
 Gen_X_Me
 Ghost_Kittie
 Glenn_Quagmire
@@ -1182,7 +1183,6 @@ VidMas25
 Vira_Hell
 VisharaVT
 Vodrisses
-Volrug
 VrcCuck
 Weedhorse Theo
 Wiitchluvr
