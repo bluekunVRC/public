@@ -31,6 +31,7 @@ CitrusZest@1127136243168333854
 Cookię@955249474752643122
 Cooper FluffFox@867131930734362644
 Cream_sicle@237085288977924097
+Daddy Deray@527160758115631115
 Damien Magic@230467226816348161
 Darkôhmen@274972375269900290
 Demonic Goth@797022150804242462
@@ -89,7 +90,6 @@ OSHA Violation@1282829380694835294
 Only Miyu@282687241799598080
 OrNorCleor@346344605983440896
 OrionGalaxy@569976018249711657
-Papi Deray@527160758115631115
 PecanPie@512450466299248661
 Pixel ଽ@240204658121900033
 PotatoLifeC4t@723369893587845181
@@ -279,7 +279,7 @@ Escerz
 EvieTheShark
 ExCinema
 ExPSneaky
-FallenFurry2000
+FallenFurry
 Feathermo0n
 Fero~
 FireRinku
@@ -457,6 +457,7 @@ _Scottt_
 _Subsine_
 alexmarsh
 ash9421
+ashlenatorchan
 bohbee
 breedingkink
 cenriclycan
