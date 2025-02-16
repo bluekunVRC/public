@@ -122,7 +122,6 @@ ToP_Chewy@313514279330512906
 Tritanien@389617910449963008
 Tycasaki@190143115473059840
 Typᴏ@1199215597939073105
-UltraVReapers@470859519531155466
 Universal_Mage@624325342709940254
 Uppy@1030866832871137291
 Vallyorus@1078078534607708332
@@ -411,6 +410,7 @@ ScarsTRF
 Sev MIKO
 Shadowcaster999
 Shadowrave06
+ShapesOfElle
 Shawshank
 ShoalSaltspray
 SimulatedWolf
@@ -708,7 +708,6 @@ Crazy_gamer_III
 CreamPuffy
 CremeKitsune
 CrimsonJant
-Crystal_Bunny_
 Crywarfare
 CurlyTheCat
 Cybek22
@@ -730,6 +729,7 @@ Darth_Plague․AI
 DeadFox NEO
 Deadflare
 DeadlyPro
+Deceasedoroku
 DeceptiveMaiden
 Deer Milk
 Defect_
@@ -902,7 +902,6 @@ Kurokami_Yuki
 Kurumial
 L0ne W0lf
 LIGGA TIGGA
-LMaD
 LNSprinkles
 Lawbrojr
 LedstormXM
@@ -1116,11 +1115,9 @@ ShaeS̷a̷n̷i̷t̷y
 Shalrik
 Shampuru
 ShaneHTodwam
-ShapesOfElle
 Sharad-YT
 SharpyDot
 ShinzoTakahashi
-ShionTheBunny
 ShiΓLΣy
 Shoji Modrá
 Shuze
@@ -1361,7 +1358,6 @@ noodolski
 notazoomer
 offset04
 piedude67
-pizzahutcombo
 poyou
 puppzie
 pıoΛssǝlpuƎ
