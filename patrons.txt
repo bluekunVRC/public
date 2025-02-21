@@ -20,7 +20,6 @@ Buddy_DE@154115565294714880
 BumbRush@152233988231135232
 ButterLucus@850416648368553994
 ButteryToasties@378611352278794241
-Bûñnie@706690634391748639
 C0NTRAST@1288451699500908630
 Captain Bober@425131193655099393
 CashTuxe@1078784300406800454
@@ -67,7 +66,6 @@ Lilian Ze Fox@1260729710254751854
 Lord Tremor@570991810403500052
 Love Hurts@222518626941534211
 LynxJinx@770456532893827092
-Lyrikidionisos@431362768159899648
 MajorScoreKaj@760933537922023424
 MarMarrr@379928717918601226
 MarcellaVT@226157058053898240
@@ -148,7 +146,6 @@ k1ll3rCr0ck115@1325959862902980683
 kesra@288858466930655233
 kfarwell@439941042863603723
 kuromoriii@708816260284022895
-lIEchoIl@379173131748769802
 lemͥonͣxͫah@244875958358769676
 mellymakesjam@243570380415959042
 mercenary4@1011980445887500308
@@ -164,7 +161,6 @@ vIGAVEYOUBUC 52e9@724331987321749566
 wtfwarren@1279841829126279220
 xxXJOKERXxx716@783076981361213440
 ~Kagura~@419863136028327956
-~PokerFace~@753355963074871426
 ~Primal Shoyru~@200836760287051785
 ~TiredGuyVr~@375014947882663937
 ~yohane@751553154113470544
@@ -202,6 +198,7 @@ tfw no k3rnfu@undefined,
 -DJ Goose-
 -NightSky-
 -Wattson-
+-_-Nëø-_-
 0ffer
 404Geist
 8Bitocarina
@@ -358,7 +355,6 @@ Lyrican
 M3ga Marx
 MacroToast
 Maik832
-MajinKitty
 MakoRey
 MapleCinnamon
 Mayta Ice
@@ -426,6 +422,7 @@ Shawshank
 ShoalSaltspray
 SimulatedWolf
 SinTheTrickster
+Sky Morningstr
 SnowBytes
 SomeRedhead
 SonicSpeedNews
@@ -449,7 +446,6 @@ Trixmyname
 Trixmyname
 TwistedGrave
 TyrantMonarch
-UmbraPrime5515
 UnMaskedxD
 UnstableFoxAnn
 VRC_Jacko
@@ -484,6 +480,7 @@ Zydo
 _Admiral_
 _Fallen_
 _Scottt_
+_ᵀʸˡᵉʳ_
 aiko_incr
 alexmarsh
 ash9421
@@ -633,6 +630,7 @@ Alastor 8391
 Aldebaran014
 AlexTheMango
 AlexizWolf
+Ali is dead
 Ali is dead
 AlmightySquish
 Alonzoswe
@@ -806,7 +804,6 @@ Ex_s
 Ex_s
 FaeFauna
 FakeSniperKing
-FastSmile2824
 Feral Stella
 Feyful
 FiresnowTD
@@ -859,6 +856,7 @@ Hevinli
 Hiddendemonsoul
 Hinaǃ
 HiyoriSteele
+Hmmm Cinder
 Hooble
 Hose Faerie
 HoundoomKO
@@ -1132,6 +1130,7 @@ Sanyu_
 Savy Strums
 Savy ‚_‚
 ScarlettKat
+Scrìmpy
 Seawolf035
 SeeNya
 SeiraMoriru
@@ -1315,7 +1314,6 @@ bwana1255
 certifiedyeat
 charlieblood8
 cheeseborger126
-chubbzzxl
 corks
 crakmore
 cнᴀsᴇ͜
@@ -1329,11 +1327,11 @@ doopy199
 dragonskull122
 drakostyles
 dstayton
-dubstep402
 dustbuckets
 e2t1a
 erex_a
 essassian
+eternalvenus
 exAcerbation
 fadingmuhfin
 fluffysnep
@@ -1355,7 +1353,6 @@ kage_shin
 kanadianborn
 killermitten
 kitteŋ
-kneejobs
 knifeYTking
 kurumm
 kyyluhh
@@ -1575,7 +1572,8 @@ BombardToo@334195593159245825
 Dyllersen@235552235570987013
 Norwhale Rae@218209759424151552
 Pandora@178716757056290827
-syscall@761880179819151390,
+syscall@761880179819151390
+~PokerFace~@753355963074871426,
 ,
 Krial
 TheProfessorNA
