@@ -192,6 +192,7 @@ xxXJOKERXxx716@783076981361213440
 ༺Rubi༻@749725796351868978
 ༺Stolynn༻@371418153533702144
 ࿇ɴɪɴᴊᴀ࿇@923765179597070446
+ღΛŁŁUღ@928482908338024458
 ᴍᴀʟɪᴄᴇ@128647300770824192
 ᴜѕᴀɢɪᴠʀ@501493061151490058
 ᴸᴱᴺᴼ@996972759991201813
@@ -246,7 +247,6 @@ Blazeoak
 Blazeyyy
 Budokai Man
 BugSmashR
-BusyLime37999
 Buttercup85RHEC
 Buŋŋy
 CMD_FireFly
@@ -788,6 +788,7 @@ DovaRoar
 Dr_Obvious
 DragonDraxian
 DragonKnightVeles
+Dragon_Legacy
 Drakeos
 Drander
 DreamSystemexe
@@ -1075,6 +1076,7 @@ PhlegethonVR
 Photomatic
 PhreshlyShaven
 Phrike
+PicardOfEarth
 PinkPinky
 Pixlstik
 Plural_Pun
