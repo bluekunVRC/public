@@ -82,7 +82,6 @@ Meute@409866769751080970
 MiMAdoLO@482046369507573760
 Michebelle@1149975320875761744
 Monkish@555855310800158720
-MrSticks@1124363507652108339
 MysticStrike@118572472520933376
 NORVikingGod@682172125687316490
 Nakata_Miki100@755554192378036334
@@ -107,6 +106,7 @@ RockBison140453@1197753565578535112
 Rosakoso@941361149063086151
 RydenNightEmberVRC@375457366327689219
 Sanae~@1225864520090652772
+Sefter@1239748406185033770
 Shader Daemon@923676485473173514
 ShapesOfElle@1208815427069935676
 Sharpie03@530912918204841984
@@ -188,6 +188,8 @@ xxXJOKERXxx716@783076981361213440
 ɴ ᴀ ᴛ ᴇ@919452877183942677
 ʊ Fɛռʀɨʀ ʊ@370834933171617794
 ʙᴏᴏᴛʏʟɪᴄɪᴏᴜs@866848340201570364
+͘H͘i@1108186300323999805
+͘H͘i@980851842135257130
 Υoshi@297795685682774016
 ༒Marri Marri༒@540348383848693780
 ༒MrsDuckington༒@1321224494869909688
@@ -224,7 +226,6 @@ AI Mistress
 AJalex
 ATØMĮĆTÑT
 ATØMĮĆTÑT
-Aeyiez
 Akino Otter
 Akira_ayanakoji
 AmericanSnitch
@@ -249,7 +250,6 @@ Bubee_
 Budokai Man
 BugSmashR
 Buttercup85RHEC
-CMD_FireFly
 CammyVanny
 Captain Cume
 Cashination
@@ -308,6 +308,7 @@ Frostythewicked
 GIBINATOR
 GINGAI-SERUKI
 GOTHIC BONNIE
+Galaxybeast96
 Galehardt
 GameSafeVPN
 Gheist Winters
@@ -339,12 +340,12 @@ K20×
 KARISMA_
 KaiserDaddy
 Kallo
-Kami Irata
 Kana_Yuki
 Kaze Seirei
 Keno Tatsu
 KhaosSisters
 Kill0rMoon
+King Bluntz
 KingTurtle8197
 KitsuneKozak
 Kjarna
@@ -354,7 +355,6 @@ KochochanVT
 Kolours
 Konfetti
 Krace
-Kronanom
 Krovee
 Kuro Asaki
 KurumaTheNogitsune
@@ -380,6 +380,7 @@ MacroToast
 Maik832
 MakoRey
 MapleCinnamon
+MatrixGod
 Maytheghost
 Mibiiro
 Mihoko Okayami
@@ -428,6 +429,7 @@ RoyalBlackRose
 RuanFox
 Rushingproblem
 RƐAPƐЯ
+SARATHEFEMBOY
 SKINZZ
 SKOTTER27
 Sad Sadie
@@ -468,7 +470,7 @@ Trixmyname
 Trixmyname
 Tyela
 TyrantMonarch
-UnMaskedxD
+UnstableFoxAnn
 VRC_Jacko
 Valor♡
 Vastshadow
@@ -552,13 +554,11 @@ zztinylordzz
 ~ᴍɪɴɪʙᴏᴏsᴇ~
 ~Ｅｍｐｅｒｏｒ Ｒａｖｅｎ
 ¥ BIg_PapI ¥
-«Hunger»
 ¶AlwaysMyself¶
 ÇRŌW
 Ðęmøñįç_æçę
 ×͜× Κrysta ×͜×
 ʙʟᴜᴇᵀᴹ
-ʚᴄʜᴇʀʀʏᴍᴏᴏɴɞ
 ͘Beanie
 ΣTΣD
 εхεçυτε
@@ -618,7 +618,6 @@ zztinylordzz
 619rebel
 69ShadesOfGreen
 7of9
-A p o c
 AJ The Pupper
 ALastorfan1
 ALittleEuphoria
@@ -659,7 +658,6 @@ AnnaSnows
 ArekkuCat
 Aricker123
 ArkSkinkVA
-Arkady_Tepes
 Arson69?
 AsheWHY
 AshesAtone
@@ -719,6 +717,7 @@ C0b41t
 Caketown
 CallMeCookie
 Camari_Kusunagi
+Candy Rayne
 CapriTsuki
 Caroline Cope
 Cassie_Morgan
@@ -728,7 +727,6 @@ Cataquake
 Catgirl2319
 Catkeepers
 CdKinetic
-Chadley03
 Cheb Smithers
 CheeseNmac
 CherryBomB0110
@@ -738,7 +736,6 @@ ChizuruTheNeko
 Cirno9Ball
 Co1byFPV
 Co1byFPV
-Cometsystem
 Comicbomb
 Commander Mason
 ComradeFer
@@ -827,6 +824,7 @@ FaeFauna
 FakeSniperKing
 Feral Stella
 Feyful
+FiresnowTD
 FishingTheWorld
 Fizuth
 Fl0yd²
@@ -951,6 +949,7 @@ Konshu
 Koree_
 Krystal62
 Kumy
+Kurokami_Yuki
 Kurumial
 L0ne W0lf
 LIGGA TIGGA
@@ -1042,6 +1041,7 @@ NexxusVR
 Nikki ❤️
 NiquinPRO
 Nkombat16
+Noctis Okami
 NoisiBoi
 Norman Baitz
 NotAayuri
@@ -1056,12 +1056,14 @@ Oceanruru
 Oddy®
 OfflineApril
 OfhislocalXiao
+Okamisan117
 OkieDsc
 Okulu
 OptimumStorm404
 OreotheWolfy
 Origini
 OthelloOcelot
+Otonashi~
 OutrunYGO
 PROPMASTER18
 Pacif
@@ -1123,6 +1125,7 @@ Rikki is Rippin
 Riku Satori
 RiverOceano
 Roaxis
+Robot bb5c
 Rocky_Rocketeer
 Rosaphain
 Rosaria Night
@@ -1165,7 +1168,6 @@ ShaeS̷a̷n̷i̷t̷y
 Shalrik
 Shampuru
 ShaneHTodwam
-Sharad-YT
 SharpyDot
 ShinzoTakahashi
 ShiΓLΣy
@@ -1302,7 +1304,6 @@ ZI11Λ
 ZZ_Ignis
 Zalna
 Zangan
-Zeakthecat
 ZefyWoof
 ZenkaiPool
 Zuecchini
