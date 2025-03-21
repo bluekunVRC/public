@@ -470,7 +470,7 @@ Xardas-CH
 Xavier856
 Xzerokid
 Yelna
-Yokai__Jupiter
+Yokai_Sol
 Yoru-Akuma
 Zai Hex
 Zydo
@@ -650,6 +650,7 @@ AuroraAnon
 Aushuna
 Avalos
 Awdweee
+AzazelDemonWolf
 Azeno
 Azraeel711
 Azrael-Maveth
