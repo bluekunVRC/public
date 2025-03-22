@@ -25,6 +25,7 @@ ButteryToasties@378611352278794241
 Catfishz@413540372720123926
 Cirrus Shark@135296246079291393
 CitrusZest@1127136243168333854
+Cocoa_Bean@237085288977924097
 Cooper FluffFox@867131930734362644
 CosmicWolf2-0@981913377884471300
 DJ FØNG@773595826521243718
@@ -103,7 +104,6 @@ Robbin Dabank@492883933650747412
 Rosakoso@941361149063086151
 RydenNightEmberVRC@375457366327689219
 Sanae~@1225864520090652772
-Sharpie03@530912918204841984
 Shathyan@1278590769279537187
 ShesInLaLaLand@403765077532213249
 ShiratsuyuAoba青@499169584792862720
@@ -125,6 +125,7 @@ The Pitch Black@335186361483132940
 TheGrimMeaper@1206672070331605044
 TheProfessorNA@139324235016437760
 TheRealONI@1329566114396508313
+TitanReaper056@501091170097561601
 ToP_Chewy@313514279330512906
 Tritanien@389617910449963008
 Tycasaki@190143115473059840
@@ -139,7 +140,6 @@ Yumiori@265592998669058059
 Yök@200108875989385216
 ZNKZ@953762912521031750
 _UNK0WN_@487443966548115456
-_ᵀʸˡᵉʳ_@777708189335683084
 a oni@367908824457150465
 andy_pa_@856852944137486376
 cakecreamღ@1130621150762901606
@@ -186,6 +186,7 @@ xxXJOKERXxx716@783076981361213440
 ミ彡 el orιoɴ 彡ミ@1033329218693636137
 ・Kristian・@163987136306085889
 屿屿SAMA@960217286025814067
+性Bonesie性@495395317424979968
 爪尺_卩乇尺ㄒ卄-03@953515918938497025
 ＄＂＠LnWGaMe＠＂＄@283748185418104833
 ＮａｇｉｓａＫｏｂａｙａｓｈｉ@431120262587482112,
@@ -342,6 +343,7 @@ Krace
 Kuro Asaki
 LadyLunaDoll
 Lance_Xuz
+Lavivia
 Leche-Sama
 Leighton97
 Lemon Dubai
@@ -363,6 +365,7 @@ Lyrican
 MacroToast
 Maik832
 MakoRey
+MapleCinnamon
 MatrixGod
 Mibiiro
 Mihoko Okayami
@@ -379,6 +382,7 @@ Moxii Avro
 Mr Narrow
 MrMoth1
 Mr_Ironbolt
+MrsLoverGirl
 Mäÿmäÿ
 NULLOBANDITO
 NekiChu
@@ -419,7 +423,6 @@ ScarsTRF
 SerenitySouls
 Sev MIKO
 Shadowking_vr
-Shadowrave06
 Shawshank
 ShiHoshino
 ShoalSaltspray
@@ -745,6 +748,7 @@ Daemon01
 DakotaTheBean
 Dalldeath
 DankMemeStash
+DannyLeeDawber
 DarkFyreDevil
 DarkMatterGrey
 DarkMidari
@@ -851,7 +855,6 @@ HawkHD21
 Hawzor
 HazelTree697
 HealedMusician4
-Hekitoro
 HempBarbie1
 Hentai ツ
 Hevinli
@@ -904,6 +907,7 @@ Jɪɴx
 Kaffiene
 Kainé W
 Kalitapaws
+Kamiros Torino
 KantuC カントゥク
 Karmabites
 Kate Valenxia
@@ -985,7 +989,6 @@ MizunoDrakonov
 Mochibunx
 Mokichee
 MommyFreyjaa
-Monkey Dabs
 Montague_Vile
 Moofy_
 Moogle26
@@ -1078,7 +1081,6 @@ RastalYlon
 Ravenelf
 Ravvage
 Rayne Novalise
-RayquazaKing04
 Razhokah
 RealDaddyTrump
 Real_Trigger_Warning
@@ -1099,7 +1101,6 @@ Rocky_Rocketeer
 Rosaphain
 Rosaria Night
 RoseSam
-Rotixx
 RubixCreates
 Ruby Voidwalker
 Ruketh
@@ -1178,7 +1179,6 @@ Spl1t
 Spyro The Bat
 Squavil
 Squeaks~
-StarSky_Angel27
 Starlust86
 SteelHydra2294
 Stitchscrump97
@@ -1362,6 +1362,7 @@ motoShiro
 n0T hUmAn
 neamo963
 nic48b
+nico_kneecaps
 night_001
 notazoomer
 offset04
@@ -1414,7 +1415,6 @@ wizardgod117
 wkrone
 xBri_nc
 xHyu
-xLostShadows
 xODelboyOx
 xSonicEevee
 xXLadyAlinaXx
@@ -1426,6 +1426,7 @@ yfi_
 yoomers
 ~'~Kermy~'~
 ~Aeavah~
+~DR CUDDLES~
 ~Grak~
 ~Hyperion~
 ~KidneyBean~
@@ -1479,8 +1480,6 @@ yoomers
 ༒ Irish ༒
 ༒Enuvia༒
 ༒Nyvl the Muse༒
-༒SleepyDZoro༒
-༒ɆƗN_ĐɌɆɆMᵾɌɌ༒
 ༒ㄚㄖ爪卂卄卂༒
 ༺Mama Modeus༻
 ༺༒FireღFox༒༻
