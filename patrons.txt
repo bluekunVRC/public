@@ -806,6 +806,7 @@ FallRavenFly
 FallenVirtue
 Felspring
 Feral Stella
+FilmRetro
 FiresnowTD
 FishingTheWorld
 Fizuth
@@ -1195,6 +1196,7 @@ TechnoDemon
 Tekatta
 That0neL0stBi
 The Letter Zed
+The Ugandan Knuckles
 TheBadger-yt1
 TheBearThatIsLexi
 TheCatfish
@@ -1313,7 +1315,6 @@ g0_crxzy
 geranium_
 harlequinofhate
 huwahiro
-intuitive
 ironportal
 jahh4334
 jakey_poo5
